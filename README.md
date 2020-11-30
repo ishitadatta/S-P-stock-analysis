@@ -14,4 +14,5 @@ This repository consists of the various models used to train and test the S&P 50
 * S&P_Arima_ES.ipymb - Consists of both the Arima model and the Exponential Smoothing models (on AAPL stock)
 * s-p500-time-series-analysis-using-prophet-for-wmt.ipynb - Prophet model on the the S&P 500 dataset (on WMT stock)
 * s-p500-time-series-analysis-using-slr-for-walmart.ipynb - Linear Regression model on S&P 500 dataset (on WMT stock)
+* LSTM_FOX.ipymb - LSTM model on S&P 500 (FOX stock)
 
