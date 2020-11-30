@@ -1,5 +1,5 @@
 # S-P-stock-analysis
-This repository consists of the various models used to train and test the S&P 500 dataset for the course Data Analytics (UE18CS312).
+This repository consists of the various models used to train and test the S&P 500 dataset to analyze and predict stocks for the course Data Analytics (UE18CS312).
 
 ## Dataset Source
 
